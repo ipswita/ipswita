@@ -2,7 +2,7 @@
 
 - I make fun programming projects
 - Majoring in Forensic Sciences
-- Niche: Computational biology & physics, Esoteric programming and Cybersecurity 
+- Niche: Computational chemistry & physics, Bioinformatics, Esoteric programming and Cybersecurity 
 
 
 <!--
