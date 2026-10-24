@@ -1,6 +1,8 @@
 ## Hi, I'm Ipsita ⊹ ࣪
 
-- I make fun programming projects 
+- I make fun programming projects
+- Majoring in Forensic Sciences
+- Niche: Computational chemistry & physics, Esoteric programming, Cybersecurity 
 
 
 <!--
